@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 Please fork this repository and then issue Pull Request for review.
 
 # Other comments
-Some modifications
+Some modifications after rebase the master branch
 
 ##Copyright
 2014 Git Trianing
