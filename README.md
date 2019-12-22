@@ -8,3 +8,8 @@ Sample website with plenty of files for demos
 
 # Other comments
 Some modifications
+
+##Copyright
+2014 Git Trianing
+
+
