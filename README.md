@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding a line for rebasing example.
-Adding another line for reabasing example, since the first one was created before the working branch.
+Adding another line for reabasing example, since the first one was created before the working branch. Updating for emergency fix after stashing.
 
 ## Purpose
 
