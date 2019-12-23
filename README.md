@@ -16,6 +16,6 @@ Please fork this repository and then issue Pull Request for review.
 Some modifications after rebase the master branch
 
 ##Copyright
-2014 Git Trianing
+2014 Git Training. ALl Rights reserved.
 
 
